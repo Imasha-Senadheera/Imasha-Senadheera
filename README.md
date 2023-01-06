@@ -11,4 +11,4 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ## Want to connect with me? 
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://user-images.githubusercontent.com/121493197/211021168-793a3909-63db-4c90-8e5b-7f6af2990261.png" alt="LinkedIn" width="21px"/></a>
+<a href="(https://www.linkedin.com/in/imasha-senadheera-71027320a/)"><img align="left" src="https://user-images.githubusercontent.com/121493197/211021168-793a3909-63db-4c90-8e5b-7f6af2990261.png" alt="LinkedIn" width="21px"/></a>
