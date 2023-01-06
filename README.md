@@ -11,7 +11,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Senadheera&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Want to connect with me? 
+### Want to connect with me? 
 
 <ul>
 <li> <a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211021168-793a3909-63db-4c90-8e5b-7f6af2990261.png" alt="LinkedIn" width="42px"/> </a> </li> <br>
