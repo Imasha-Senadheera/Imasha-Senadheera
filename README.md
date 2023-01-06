@@ -11,4 +11,11 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ## Want to connect with me? 
 
-<a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211021168-793a3909-63db-4c90-8e5b-7f6af2990261.png" alt="LinkedIn" width="31px"/> </a>
+<a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211021168-793a3909-63db-4c90-8e5b-7f6af2990261.png" alt="LinkedIn" width="41px"/> </a>
+
+<a href="https://stackoverflow.com/users/19914811/imasha-senadheera"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211022237-46b2b139-c946-49ad-9d7a-89c4b2ff08d7.png" alt="Stack" width="34px"/> </a>
+
+<a href="https://github.com/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211023152-20cb3107-a3c8-4185-95be-7708633e7608.png" alt="GitHub" width="36px"/> </a>
+
+<a href="https://github.com/](https://imashasenadheera326.medium.com/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211023549-ec1f7ae6-34e4-4fee-8378-a5d05f016f3c.png" alt="Medium" width="34px"/> </a>
+
