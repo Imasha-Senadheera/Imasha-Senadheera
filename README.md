@@ -19,7 +19,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 <ul>
 <li> <a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211028037-65fe2fb1-a56b-4739-8c9b-bc8cd3b9924c.png" alt="LinkedIn" width="34px"/ target="_blank"> LinkedIn </a> </li> <br>
 
-<li> <a href="https://github.com/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211023152-20cb3107-a3c8-4185-95be-7708633e7608.png" alt="GitHub" width="36px"/> </a>GitHub </li> <br>
+<li> <a href="https://github.com/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211023152-20cb3107-a3c8-4185-95be-7708633e7608.png" alt="GitHub" width="36px"/> </a> GitHub </li> <br>
 
  <li> <a href="https://stackoverflow.com/users/19914811/imasha-senadheera"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211028351-6c56cbfe-ab65-4f3f-a5c0-f441fcf53573.png" alt="Stack" width="34px"/> StackoverFlow </a> </li> <br>
   
