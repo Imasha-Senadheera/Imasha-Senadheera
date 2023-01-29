@@ -15,9 +15,9 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ### My Stats
 
-![Imasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imasha-Senadheera&show_icons=true&theme=dracula)
+![Imasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imasha-Senadheera&show_icons=true&theme=flag-india)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Senadheera&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Senadheera&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
