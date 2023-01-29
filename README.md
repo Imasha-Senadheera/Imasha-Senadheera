@@ -11,6 +11,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
  
 <img align="right" alt="Coding" width="357" src="https://user-images.githubusercontent.com/121493197/215305321-6b395b8f-ab1e-4ee2-aa7b-007f04450b81.gif" />
 
+<br> 
 
 ### My Stats
 
