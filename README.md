@@ -10,7 +10,7 @@
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. Since I'm (still) a Undergradate student, I also like to share my code so others can make use of them.
 
 <br> 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/121493197/215305321-6b395b8f-ab1e-4ee2-aa7b-007f04450b81.gif" />
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/121493197/215305321-6b395b8f-ab1e-4ee2-aa7b-007f04450b81.gif" />
 
 
 ### My Stats
