@@ -21,6 +21,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Senadheera&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 ### Languages & Tools I Use!
 
 <a href=""> <img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="LinkedIn" width="34px"/> </a>
