@@ -22,7 +22,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br>
 
-### What I Know!
+### What I know!
 
 <img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="Java" width="37px"/> </a>
 
@@ -52,7 +52,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br> <br> <br> <br>
 
-### Tools I Use!
+### Tools I use!
 
 <img align="left" src="https://user-images.githubusercontent.com/121493197/225221538-08a1ad6c-cef4-4fd9-98ac-297cec3a9c4d.png" alt="VS" width="30px"/> </a>
 
