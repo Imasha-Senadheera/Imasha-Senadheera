@@ -22,10 +22,19 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br>
 
-### Languages & Tools I Use!
+### What I Know!
 
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="LinkedIn" width="37px"/> </a>
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="Java" width="37px"/> </a>
 
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225218578-5af37ec5-9bd2-4cf8-91fe-0a627b897546.png" alt="MySql" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225219189-6a09f544-b695-4077-a90d-a189a132a9c7.png" alt="CSS" width="37px"/> </a>
+
+<img align="left" src="" alt="PHP" width="37px"/> </a>
+
+<img align="left" src="" alt="PHP" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225218698-8864af1b-a908-4763-819d-d178a7d52114.png" alt="PHP" width="37px"/> </a>
 
 <br> <br>
 
