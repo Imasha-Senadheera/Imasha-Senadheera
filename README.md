@@ -38,6 +38,18 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br> <br> <br> <br>
 
+### What I use!
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225221538-08a1ad6c-cef4-4fd9-98ac-297cec3a9c4d.png" alt="VS" width="30px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225221666-354d92b8-b602-433f-bd44-eac3a8ff87f7.png" alt="Eclipse" width="30px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225222059-3748608a-e693-4d03-95e9-7bde5277d1ed.png" alt="Figma" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225222206-63d9170d-5d42-483b-9ba5-4c03ee089f5e.png" alt="Canva" width="30px"/> </a>
+
+<br> <br> <br> <br>
+
 ### Want to connect with me? 
 
 <a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211028037-65fe2fb1-a56b-4739-8c9b-bc8cd3b9924c.png" alt="LinkedIn" width="34px"/> </a>
@@ -49,18 +61,6 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 <a href="https://bitbucket.org/account/workspaces"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214253816-3008466c-e5a8-4e66-a090-f6576d1b9381.png" alt="Bitbucket" width="30px"/> </a> 
 
 <a href="https://trello.com/u/imashasenadheera/boards"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214254922-1098611d-3f29-48bd-800d-6c74e6533314.png" alt="GitHub" width="28px"/> </a>
-
-<br> <br> <br> <br>
-
-### Tools I use!
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221538-08a1ad6c-cef4-4fd9-98ac-297cec3a9c4d.png" alt="VS" width="30px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221666-354d92b8-b602-433f-bd44-eac3a8ff87f7.png" alt="Eclipse" width="30px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225222059-3748608a-e693-4d03-95e9-7bde5277d1ed.png" alt="Figma" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225222206-63d9170d-5d42-483b-9ba5-4c03ee089f5e.png" alt="Canva" width="30px"/> </a>
 
 <br> <br> <br> <br>
 
