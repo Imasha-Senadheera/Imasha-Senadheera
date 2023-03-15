@@ -34,7 +34,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <img align="left" src="https://user-images.githubusercontent.com/121493197/225220365-1caaecd9-035a-4c64-abd2-4a66424959e9.png" alt="JS" width="37px"/> </a>
 
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221067-d6c0e57a-a3af-45dd-9762-26180a872dc5.png" alt="PHP" width="37px"/> </a>
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225221067-d6c0e57a-a3af-45dd-9762-26180a872dc5.png" alt="PHP" width="45px"/> </a>
 
 <br> <br>
 
