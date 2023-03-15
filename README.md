@@ -32,7 +32,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <img align="left" src="https://user-images.githubusercontent.com/121493197/225219528-a8d67722-07c5-4917-bec7-f2a6e02ae781.png" alt="HTML" width="37px"/> </a>
 
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225219710-832368e3-b8c2-4055-ad16-463b148642e8.png" alt="JS" width="37px"/> </a>
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225220365-1caaecd9-035a-4c64-abd2-4a66424959e9.png" alt="JS" width="37px"/> </a>
 
 <img align="left" src="https://user-images.githubusercontent.com/121493197/225218698-8864af1b-a908-4763-819d-d178a7d52114.png" alt="PHP" width="37px"/> </a>
 
