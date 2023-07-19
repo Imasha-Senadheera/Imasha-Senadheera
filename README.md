@@ -22,21 +22,6 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br>
 
-### What I know!
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="Java" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225218578-5af37ec5-9bd2-4cf8-91fe-0a627b897546.png" alt="MySql" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225219189-6a09f544-b695-4077-a90d-a189a132a9c7.png" alt="CSS" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225219528-a8d67722-07c5-4917-bec7-f2a6e02ae781.png" alt="HTML" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225220365-1caaecd9-035a-4c64-abd2-4a66424959e9.png" alt="JS" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221067-d6c0e57a-a3af-45dd-9762-26180a872dc5.png" alt="PHP" width="45px"/> </a>
-
-<br> <br> <br> <br>
 
 ### What I use!
 
@@ -61,6 +46,22 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 <a href="https://bitbucket.org/account/workspaces"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214253816-3008466c-e5a8-4e66-a090-f6576d1b9381.png" alt="Bitbucket" width="30px"/> </a> 
 
 <a href="https://trello.com/u/imashasenadheera/boards"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214254922-1098611d-3f29-48bd-800d-6c74e6533314.png" alt="GitHub" width="28px"/> </a>
+
+<br> <br> <br> <br>
+
+### What I know!
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="Java" width="37px"/> </a>
+
+<img align="left" src="https://github.com/Imasha-Senadheera/Imasha-Senadheera/assets/121493197/0ecbcd96-836a-4306-8be0-4e2411df9ec7 " alt="React" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225219189-6a09f544-b695-4077-a90d-a189a132a9c7.png" alt="CSS" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225219528-a8d67722-07c5-4917-bec7-f2a6e02ae781.png" alt="HTML" width="37px"/> </a>
+
+<img align="left" src="https://user-images.githubusercontent.com/121493197/225220365-1caaecd9-035a-4c64-abd2-4a66424959e9.png" alt="JS" width="37px"/> </a>
+
+<img align="left" src="https://github.com/Imasha-Senadheera/Imasha-Senadheera/assets/121493197/afd98e77-bf14-4eea-a47e-e6cb1e8e11af" alt="Nodejs" width="35px"/> </a>
 
 <br> <br> <br> <br>
 
