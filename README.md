@@ -65,4 +65,4 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <br> <br> <br> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imasha-Senadheera&" alt="Imasha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Imasha-Senadheera" alt="Imasha" /></p>
