@@ -14,55 +14,90 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ### My Stats
 
-![Imasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imasha-Senadheera&show_icons=true&theme=flag-india)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imasha-senadheera&theme=light&hide_border=false" />
+    </td>
+    <td width="50%" align="center">
+      <img align="right" alt="Coding" width="840" src="https://github.com/user-attachments/assets/f65a3ae8-71a3-4998-8a24-f9ce8bcf3d90")
+" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/121493197/215305321-6b395b8f-ab1e-4ee2-aa7b-007f04450b81.gif" />
+ <br> <br>
+ 
+<h3 align="center">Languages and Tools:</h3><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Senadheera&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50" />
+  </a>
+ 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" />
+  </a>
+   
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50" />
+  </a>
+  
+  
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50" />
+  </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50" />
+  </a>
+  
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50" />
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50" />
+  </a>
+  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50" />
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50" />
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50" />
+  </a>
+</p>
 
 <br>
 
-
-### What I use!
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221538-08a1ad6c-cef4-4fd9-98ac-297cec3a9c4d.png" alt="VS" width="30px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225221666-354d92b8-b602-433f-bd44-eac3a8ff87f7.png" alt="Eclipse" width="30px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225222059-3748608a-e693-4d03-95e9-7bde5277d1ed.png" alt="Figma" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225222206-63d9170d-5d42-483b-9ba5-4c03ee089f5e.png" alt="Canva" width="30px"/> </a>
-
-<br> <br> <br> <br>
-
-### Want to connect with me? 
-
-<a href="https://www.linkedin.com/in/imasha-senadheera-71027320a/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211028037-65fe2fb1-a56b-4739-8c9b-bc8cd3b9924c.png" alt="LinkedIn" width="34px"/> </a>
-
-<a href="https://github.com/"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211023152-20cb3107-a3c8-4185-95be-7708633e7608.png" alt="GitHub" width="36px"/> </a>
-
-<a href="https://stackoverflow.com/users/19914811/imasha-senadheera"> <img align="left" src="https://user-images.githubusercontent.com/121493197/211028351-6c56cbfe-ab65-4f3f-a5c0-f441fcf53573.png" alt="Stack" width="34px"/> </a>
-  
-<a href="https://bitbucket.org/account/workspaces"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214253816-3008466c-e5a8-4e66-a090-f6576d1b9381.png" alt="Bitbucket" width="30px"/> </a> 
-
-<a href="https://trello.com/u/imashasenadheera/boards"> <img align="left" src="https://user-images.githubusercontent.com/121493197/214254922-1098611d-3f29-48bd-800d-6c74e6533314.png" alt="GitHub" width="28px"/> </a>
-
-<br> <br> <br> <br>
-
-### What I know!
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225217966-3ec06698-3378-4eed-a6aa-68ad42fabbbe.png" alt="Java" width="37px"/> </a>
-
-<img align="left" src="https://github.com/Imasha-Senadheera/Imasha-Senadheera/assets/121493197/0ecbcd96-836a-4306-8be0-4e2411df9ec7 " alt="React" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225219189-6a09f544-b695-4077-a90d-a189a132a9c7.png" alt="CSS" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225219528-a8d67722-07c5-4917-bec7-f2a6e02ae781.png" alt="HTML" width="37px"/> </a>
-
-<img align="left" src="https://user-images.githubusercontent.com/121493197/225220365-1caaecd9-035a-4c64-abd2-4a66424959e9.png" alt="JS" width="37px"/> </a>
-
-<img align="left" src="https://github.com/Imasha-Senadheera/Imasha-Senadheera/assets/121493197/afd98e77-bf14-4eea-a47e-e6cb1e8e11af" alt="Nodejs" width="35px"/> </a>
-
-<br> <br> <br> <br>
 
 
