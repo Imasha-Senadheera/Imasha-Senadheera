@@ -3,14 +3,11 @@
 <br>
 
 ### Well, hello there 👋
-
 <hr>
 
 ### Who am I?
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. <br> Since I'm (still) a Undergradate student, I also like to share my code so others can make use of them.
- 
-
-<br> 
+ <br> 
 
 ### My Stats
 
@@ -26,7 +23,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
   </tr>
 </table>
 
- <br> <br>
+ <br>
  
 <h3 align="center">Languages and Tools:</h3><br>
 
